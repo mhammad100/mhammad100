@@ -7,8 +7,8 @@ I build the *systems* behind the product: merchant APIs that keep money correct,
 My strongest ground is **backend and database architecture**. I lead it, stay hands-on in the code that matters, and look after it in production.
 
 <p>
-  <a href="https://YOUR-PORTFOLIO-URL"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-FF4F1A?style=for-the-badge&logoColor=white" /></a>
-  <a href="https://YOUR-PORTFOLIO-URL/resume.pdf"><img alt="Resume" src="https://img.shields.io/badge/Resume-121211?style=for-the-badge" /></a>
+  <a href="https://hammad-mansha.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-FF4F1A?style=for-the-badge&logoColor=white" /></a>
+  <a href="https://hammad-mansha.vercel.app/resume.pdf"><img alt="Resume" src="https://img.shields.io/badge/Resume-121211?style=for-the-badge" /></a>
   <a href="https://www.linkedin.com/in/muhammad-hammad-mansha-8ab0b21a1/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:hammadmansha100@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-17362A?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
@@ -36,7 +36,7 @@ My strongest ground is **backend and database architecture**. I lead it, stay ha
 | **VEC Enterprise Suite** | Field survey, equipment tracking and DOCX/PDF report generation, connected to Salesforce and Dropbox | Full-stack (team) |
 | **[EchovaStudio](https://www.echovastudio.com/)** | AI models running locally inside a packaged desktop app | Full-stack (team) |
 
-Full case studies with system diagrams are on my **[portfolio](https://YOUR-PORTFOLIO-URL/work)**. Most of this work is private client code, so it isn’t in public repos.
+Full case studies with system diagrams are on my **[portfolio](https://hammad-mansha.vercel.app/work)**. Most of this work is private client code, so it isn’t in public repos.
 
 ### 🧰 Stack
 
@@ -97,5 +97,5 @@ Full case studies with system diagrams are on my **[portfolio](https://YOUR-PORT
 
 <p align="center">
   <b>Open to backend, platform and full-stack roles.</b><br />
-  <a href="https://YOUR-PORTFOLIO-URL/contact">Get in touch →</a>
+  <a href="https://hammad-mansha.vercel.app/contact">Get in touch →</a>
 </p>
