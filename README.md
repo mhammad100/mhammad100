@@ -1,69 +1,101 @@
+<h1>Hi, I’m Hammad 👋</h1>
 
+**Senior Full-Stack Engineer** · 6+ years shipping production systems · Pakistan
 
-<h1 align="center">Hi there<img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">
+I build the *systems* behind the product: merchant APIs that keep money correct, routers that decide who gets online, shops that keep selling when the internet drops, and AI that runs on your own machine.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+I+am+full+stack+developer;I+am+Mern+Stack+Developer...;)](https://git.io/typing-svg)
+My strongest ground is **backend and database architecture**. I lead it, stay hands-on in the code that matters, and look after it in production.
 
-</h1>
-
-### 🚀 About Me:
-- 🌱 I’m Senior Full Stack Developer
-- 💬 Ask me about **React**, **Next**, **JavaScript**, **Electron** and **MERN Stack development**.
-- 📫 How to reach me: **hammadmansha100@gmail.com**
-
----
-
-### 🌐 Connect With Me:
-<p align="left">
-  <a href="https://www.linkedin.com/in/muhammad-hammad-mansha-8ab0b21a1/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+<p>
+  <a href="https://YOUR-PORTFOLIO-URL"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-FF4F1A?style=for-the-badge&logoColor=white" /></a>
+  <a href="https://YOUR-PORTFOLIO-URL/resume.pdf"><img alt="Resume" src="https://img.shields.io/badge/Resume-121211?style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/muhammad-hammad-mansha-8ab0b21a1/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:hammadmansha100@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-17362A?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-### 🛠️ Languages and Tools:
+### 🛠 What I build
+
+| | |
+|---|---|
+| **Payment & business backends** | Merchant APIs, transaction state, billing and order flows on carefully designed databases |
+| **Network-connected software** | ISP billing and authentication wired to MikroTik, FreeRADIUS, PPPoE and VPN tooling |
+| **Desktop & offline-first apps** | Electron and React Native products that keep working offline and sync when they can |
+| **Applied AI** | Models served locally from a packaged desktop app, and cloud AI APIs in chat products |
+
+### 🚀 Selected work
+
+| Project | What it is | My role |
+|---|---|---|
+| **Payment platforms** | Merchant APIs, transaction state and concurrency-controlled balances for three payment systems | Led backend & database architecture |
+| **Radix ISP CRM** | Subscriber billing, sessions and scheduled renewals, wired to MikroTik and FreeRADIUS | Technical lead |
+| **FOMO** | Hospitality ecosystem: ordering, kitchen queues, POS, bookings and prepaid checkout across four apps | Technical lead |
+| **VOLT POS** | Offline-first retail point of sale that syncs branches through a central server | Full-stack |
+| **[Lasso](https://lassostats.com/)** | Cross-platform statistical analysis desktop app with a subscription portal | Full-stack (team) |
+| **VEC Enterprise Suite** | Field survey, equipment tracking and DOCX/PDF report generation, connected to Salesforce and Dropbox | Full-stack (team) |
+| **[EchovaStudio](https://www.echovastudio.com/)** | AI models running locally inside a packaged desktop app | Full-stack (team) |
+
+Full case studies with system diagrams are on my **[portfolio](https://YOUR-PORTFOLIO-URL/work)**. Most of this work is private client code, so it isn’t in public repos.
+
+### 🧰 Stack
+
+**Languages & backend**<br />
+![JavaScript](https://img.shields.io/badge/JavaScript-121211?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-121211?style=flat-square&logo=typescript)
+![Python](https://img.shields.io/badge/Python-121211?style=flat-square&logo=python)
+![Node.js](https://img.shields.io/badge/Node.js-121211?style=flat-square&logo=nodedotjs)
+![Express](https://img.shields.io/badge/Express-121211?style=flat-square&logo=express)
+![FastAPI](https://img.shields.io/badge/FastAPI-121211?style=flat-square&logo=fastapi)
+
+**Apps**<br />
+![React](https://img.shields.io/badge/React-121211?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-121211?style=flat-square&logo=nextdotjs)
+![React Native](https://img.shields.io/badge/React_Native-121211?style=flat-square&logo=react)
+![Electron](https://img.shields.io/badge/Electron-121211?style=flat-square&logo=electron)
+![Redux](https://img.shields.io/badge/Redux_Toolkit-121211?style=flat-square&logo=redux)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-121211?style=flat-square&logo=tailwindcss)
+
+**Data**<br />
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-121211?style=flat-square&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-121211?style=flat-square&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-121211?style=flat-square&logo=mongodb)
+![SQLite](https://img.shields.io/badge/SQLite-121211?style=flat-square&logo=sqlite)
+![Prisma](https://img.shields.io/badge/Prisma-121211?style=flat-square&logo=prisma)
+
+**Cloud & ops**<br />
+![AWS](https://img.shields.io/badge/AWS_EC2-121211?style=flat-square)
+![Linux](https://img.shields.io/badge/Linux-121211?style=flat-square&logo=linux)
+![Nginx](https://img.shields.io/badge/Nginx-121211?style=flat-square&logo=nginx)
+![Docker](https://img.shields.io/badge/Docker-121211?style=flat-square&logo=docker)
+![PM2](https://img.shields.io/badge/PM2-121211?style=flat-square&logo=pm2)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-121211?style=flat-square&logo=githubactions)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI%2FCD-121211?style=flat-square&logo=gitlab)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-121211?style=flat-square&logo=cloudflare)
+
+**Integrations & specialized**<br />
+![MikroTik](https://img.shields.io/badge/MikroTik-121211?style=flat-square&logo=mikrotik)
+![FreeRADIUS](https://img.shields.io/badge/FreeRADIUS-121211?style=flat-square)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-121211?style=flat-square&logo=huggingface)
+![CUDA](https://img.shields.io/badge/CUDA-121211?style=flat-square&logo=nvidia)
+![Razorpay](https://img.shields.io/badge/Razorpay-121211?style=flat-square&logo=razorpay)
+![Salesforce](https://img.shields.io/badge/Salesforce-121211?style=flat-square)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-121211?style=flat-square&logo=ffmpeg)
+
+### 💼 Experience
+
+- **Senior Full-Stack Engineer**, Applet Solutions · 2022 – 2026 · Remote<br />
+  Led backend engineering and database architecture, coordinated teams, and ran AWS/Linux deployments, Nginx, PM2, CI/CD and SSL.
+- **MERN Developer**, Async Innovations · 2021 – 2022<br />
+  React interfaces, Node.js/Express APIs, third-party integrations and real-time features.
+- **MERN Developer**, XiramSoft · 2020 – 2021<br />
+  React and Node.js features with MongoDB, debugging and maintenance.
+
+🎓 **BS Computer Science**, University of Education
+
+---
+
 <p align="center">
-
-  [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/BRdhanani)](https://github.com/Timon0305) 
-  [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/BRdhanani)](https://github.com/Timon0305) 
-  [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/BRdhanani)](https://github.com/Timon0305) 
-  [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/BRdhanani)](https://github.com/Timon0305) 
-  
-  [![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/BRdhanani)](https://github.com/Timon0305) 
-  [![Electron](https://img.shields.io/badge/-Electron-gray?style=flat&logo=electron&link=https://github.com/BRdhanani)](https://github.com/Timon0305) 
-  [![Heroku](https://img.shields.io/badge/-Heroku-gray?style=flat&logo=heroku&link=https://github.com/BRdhanani)](https://github.com/Timon0305) 
-  [![JQuery](https://img.shields.io/badge/-JQuery-blue?style=flat&logo=jquery&link=https://github.com/BRdhanani)](https://github.com/Timon0305) 
-  
-  [![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js&link=https://github.com/BRdhanani)](https://github.com/Timon0305) 
-  [![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&link=https://github.com/BRdhanani)](https://github.com/Timon0305) 
-  [![JSON](https://img.shields.io/badge/-json-02569B?style=flat&logo=json&link=https://github.com/BRdhanani)](https://github.com/Timon0305)
-  
-  [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/BRdhanani)](https://github.com/Timon0305)
-  [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
-  [![Bitbucket](https://img.shields.io/badge/-Bitbucket-blue?style=flat&logo=bitbucket&link=https://github.com/BRdhanani)](https://github.com/Timon0305)
-  [![MongoDB](https://img.shields.io/badge/-MongoDB-FCA121?style=flat&logo=mongodb&link=https://github.com/BRdhanani)](https://gitlab.com/Timon0305) 
-  
-  [![Typescript](https://img.shields.io/badge/-TypeScript-white?style=flat&logo=typescript&link=https://github.com/BRdhanani)](https://github.com/Timon0305)
-  [![NextJS](https://img.shields.io/badge/-NextJS-black?style=flat&logo=nextjs&link=https://github.com/BRdhanani)](https://github.com/Timon0305)
-
+  <b>Open to backend, platform and full-stack roles.</b><br />
+  <a href="https://YOUR-PORTFOLIO-URL/contact">Get in touch →</a>
 </p>
-
----
-
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mhammad100&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mhammad100" alt="GitHub Streak Stats" />
-</p>
-
----
-
-### 🌟 Highlights:
-- 🏆 **GitHub Trophies:** Celebrate my journey with the badges above!
-- 📚 **Always Learning:** Currently diving deeper into **backend technologies**.
-- 🔗 **Open to Collaboration:** Feel free to reach out for projects or mentorship opportunities.
-
-
