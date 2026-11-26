@@ -1,10 +1,10 @@
 <h1>Hi, I’m Hammad 👋</h1>
 
-**Senior Full-Stack Engineer** · 6+ years shipping production systems · Pakistan
+**Senior Software & AI Engineer** · 6+ years shipping production systems · Pakistan
 
-I build the *systems* behind the product: merchant APIs that keep money correct, routers that decide who gets online, shops that keep selling when the internet drops, and AI that runs on your own machine.
+I build the *systems* behind the product: LLM agents that learn what AI says about a brand, merchant APIs that keep money correct, routers that decide who gets online, and shops that keep selling when the internet drops.
 
-My strongest ground is **backend and database architecture**. I lead it, stay hands-on in the code that matters, and look after it in production.
+Today I’m an **AI engineer at RS Pay**, building LLM products on OpenAI, Claude, Gemini and Perplexity. Underneath it all is **backend and database architecture**: I lead it, stay hands-on in the code that matters, and own it in production.
 
 <p>
   <a href="https://hammad-mansha.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-FF4F1A?style=for-the-badge&logoColor=white" /></a>
@@ -15,30 +15,47 @@ My strongest ground is **backend and database architecture**. I lead it, stay ha
 
 ---
 
+### 📈 In numbers
+
+| ~50K | 10,000+ | 50+ | 99.9% | 30% |
+|:---:|:---:|:---:|:---:|:---:|
+| payment transactions a day | ISP subscribers served | restaurants on FOMO | uptime on systems I ran | lower LLM API cost |
+
 ### 🛠 What I build
 
 | | |
 |---|---|
+| **AI & LLM products** | LLM-powered SaaS, AI agents, chatbots and automation on OpenAI, Claude, Gemini and Perplexity, plus Hugging Face models running locally |
 | **Payment & business backends** | Merchant APIs, transaction state, billing and order flows on carefully designed databases |
 | **Network-connected software** | ISP billing and authentication wired to MikroTik, FreeRADIUS, PPPoE and VPN tooling |
 | **Desktop & offline-first apps** | Electron and React Native products that keep working offline and sync when they can |
-| **Applied AI** | Models served locally from a packaged desktop app, and cloud AI APIs in chat products |
+| **Cloud & production ops** | AWS, Linux, Docker, Nginx, PM2 and CI/CD, kept at 99.9% uptime |
 
 ### 🚀 Selected work
 
 | Project | What it is | My role |
 |---|---|---|
-| **Payment platforms** | Merchant APIs, transaction state and concurrency-controlled balances for three payment systems | Led backend & database architecture |
-| **Radix ISP CRM** | Subscriber billing, sessions and scheduled renewals, wired to MikroTik and FreeRADIUS | Technical lead |
-| **FOMO** | Hospitality ecosystem: ordering, kitchen queues, POS, bookings and prepaid checkout across four apps | Technical lead |
-| **VOLT POS** | Offline-first retail point of sale that syncs branches through a central server | Full-stack |
-| **[Lasso](https://lassostats.com/)** | Cross-platform statistical analysis desktop app with a subscription portal | Full-stack (team) |
-| **VEC Enterprise Suite** | Field survey, equipment tracking and DOCX/PDF report generation, connected to Salesforce and Dropbox | Full-stack (team) |
-| **[EchovaStudio](https://www.echovastudio.com/)** | AI models running locally inside a packaged desktop app | Full-stack (team) |
+| **[Master AEO](https://masteraeo.com/)** | AI-visibility SaaS: queries ChatGPT, Gemini and Perplexity with buyer prompts, scores visibility, and LangChain agents generate and re-check fixes | AI engineer |
+| **Payment platforms** | Merchant APIs, transaction state and concurrency-safe balances for three systems handling ~50K transactions a day | Led backend & database architecture |
+| **Radix ISP CRM** | Billing, PPPoE/Hotspot auth, RADIUS accounting and VPN for 10,000+ subscribers, wired to MikroTik and FreeRADIUS | Technical lead |
+| **FOMO** | Hospitality ecosystem used by 50+ restaurants: ordering, kitchen queues, POS, bookings and prepaid checkout | Technical lead |
+| **VOLT POS** | Offline-first retail point of sale with background sync built for zero data loss | Full-stack |
+| **[Lasso](https://lassostats.com/)** | Cross-platform econometrics desktop app with a subscription portal | Full-stack (team) |
+| **VEC Operations Suite** | Field survey, equipment tracking and DOCX/PDF report generation, connected to Salesforce and Dropbox | Full-stack (team) |
+| **[EchovaStudio](https://www.echovastudio.com/)** | Hugging Face models running locally on GPU or CPU inside a packaged desktop app | Full-stack (team) |
 
 Full case studies with system diagrams are on my **[portfolio](https://hammad-mansha.vercel.app/work)**. Most of this work is private client code, so it isn’t in public repos.
 
 ### 🧰 Stack
+
+**AI & LLMs**<br />
+![OpenAI](https://img.shields.io/badge/OpenAI-121211?style=flat-square&logo=openai)
+![Claude](https://img.shields.io/badge/Claude-121211?style=flat-square&logo=anthropic)
+![Gemini](https://img.shields.io/badge/Gemini-121211?style=flat-square&logo=googlegemini)
+![Perplexity](https://img.shields.io/badge/Perplexity-121211?style=flat-square&logo=perplexity)
+![LangChain](https://img.shields.io/badge/LangChain-121211?style=flat-square&logo=langchain)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-121211?style=flat-square&logo=huggingface)
+![CUDA](https://img.shields.io/badge/CUDA-121211?style=flat-square&logo=nvidia)
 
 **Languages & backend**<br />
 ![JavaScript](https://img.shields.io/badge/JavaScript-121211?style=flat-square&logo=javascript)
@@ -73,20 +90,20 @@ Full case studies with system diagrams are on my **[portfolio](https://hammad-ma
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI%2FCD-121211?style=flat-square&logo=gitlab)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-121211?style=flat-square&logo=cloudflare)
 
-**Integrations & specialized**<br />
+**Integrations & networking**<br />
 ![MikroTik](https://img.shields.io/badge/MikroTik-121211?style=flat-square&logo=mikrotik)
 ![FreeRADIUS](https://img.shields.io/badge/FreeRADIUS-121211?style=flat-square)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-121211?style=flat-square&logo=huggingface)
-![CUDA](https://img.shields.io/badge/CUDA-121211?style=flat-square&logo=nvidia)
 ![Razorpay](https://img.shields.io/badge/Razorpay-121211?style=flat-square&logo=razorpay)
 ![Salesforce](https://img.shields.io/badge/Salesforce-121211?style=flat-square)
 ![FFmpeg](https://img.shields.io/badge/FFmpeg-121211?style=flat-square&logo=ffmpeg)
 
 ### 💼 Experience
 
+- **AI Engineer / Senior Full-Stack Engineer**, RS Pay · Apr 2026 – Present<br />
+  Building Master AEO with LangChain agents and automated pipelines; cut LLM API costs by 30% by routing between OpenAI and Gemini.
 - **Senior Full-Stack Engineer**, Applet Solutions · 2022 – 2026 · Remote<br />
-  Led backend engineering and database architecture, coordinated teams, and ran AWS/Linux deployments, Nginx, PM2, CI/CD and SSL.
-- **MERN Developer**, Async Innovations · 2021 – 2022<br />
+  Led backend and database architecture for payment, ISP and hospitality platforms, led a team of 5 developers, and ran AWS/Linux, Nginx, PM2, CI/CD and SSL at 99.9% uptime.
+- **MERN Developer**, Async Innovation · 2021 – 2022<br />
   React interfaces, Node.js/Express APIs, third-party integrations and real-time features.
 - **MERN Developer**, XiramSoft · 2020 – 2021<br />
   React and Node.js features with MongoDB, debugging and maintenance.
@@ -96,6 +113,6 @@ Full case studies with system diagrams are on my **[portfolio](https://hammad-ma
 ---
 
 <p align="center">
-  <b>Open to backend, platform and full-stack roles.</b><br />
+  <b>Open to AI, backend, platform and full-stack roles.</b><br />
   <a href="https://hammad-mansha.vercel.app/contact">Get in touch →</a>
 </p>
